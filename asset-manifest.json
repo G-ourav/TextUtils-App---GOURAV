@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtils%20App%20-%20GOURAV/static/css/main.93e359b4.css",
+    "main.js": "/TextUtils%20App%20-%20GOURAV/static/js/main.3e825110.js",
+    "static/js/787.719ec76d.chunk.js": "/TextUtils%20App%20-%20GOURAV/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TextUtils%20App%20-%20GOURAV/index.html",
+    "main.93e359b4.css.map": "/TextUtils%20App%20-%20GOURAV/static/css/main.93e359b4.css.map",
+    "main.3e825110.js.map": "/TextUtils%20App%20-%20GOURAV/static/js/main.3e825110.js.map",
+    "787.719ec76d.chunk.js.map": "/TextUtils%20App%20-%20GOURAV/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93e359b4.css",
+    "static/js/main.3e825110.js"
+  ]
+}
